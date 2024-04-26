@@ -1,5 +1,5 @@
 
-<h1><b>Olá! Eu sou o Ronaldo</b></h2>
+<h1><b>Olá! Meu nome é Ronaldo</b></h2>
 
 Sou um estudante em busca de aprendizado no mundo de desenvolvimento de software.
 Aqui é onde coloco todos os meus projetos
